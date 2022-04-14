@@ -13,7 +13,7 @@ What you should learn from this project:
 
 ---
 
-### [0. _putchar](./0-holberton.c)
+### [0. _putchar](./0-putchar.c)
 * Write a program that prints Holberton, followed by a new line.
 
 ### [1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game](./1-alphabet.c)
@@ -31,7 +31,7 @@ What you should learn from this project:
 ### [5. Sign](./5-sign.c)
 * Write a function that prints the sign of a number.
 
-### [6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you](./6-abs.c)
+### [6. There is no such thing as absolute value in this world. You can only estimate what a thi6ng is worth to you](./6-abs.c)
 * Write a function that computes the absolute value of an integer.
 
 ### [7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important ](./7-print_last_digit.c)
@@ -50,6 +50,3 @@ What you should learn from this project:
 * Write a function that prints all natural numbers from n to 98, followed by a new line.
 
 ---
-
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
