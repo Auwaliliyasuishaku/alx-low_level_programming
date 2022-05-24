@@ -25,6 +25,3 @@ What you should learn from this project:
 * Write a function-like macro SUM(x, y) that computes the sum of the numbers x and y.
 
 ---
-
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
