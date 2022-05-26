@@ -57,6 +57,3 @@ Start to look for the right source of information without too much help
 * Write a keygen for crackme5.
 
 ---
-
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
